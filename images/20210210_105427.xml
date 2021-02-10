@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20210210_105427.jpg</filename>
+	<path>C:\tester-detection\images\20210210_105427.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3096</width>
+		<height>4128</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tester</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1485</xmin>
+			<ymin>846</ymin>
+			<xmax>2167</xmax>
+			<ymax>3042</ymax>
+		</bndbox>
+	</object>
+</annotation>
